@@ -1,4 +1,4 @@
-.pants.d/*
+.pants.d
 .pants.workdir.file_lock
 .cache
 dist
